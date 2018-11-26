@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
-theme = "meghna"
+theme = "meghna-hugo"
 
 # Menu
 [menu]
@@ -45,6 +45,7 @@ theme = "meghna"
 home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
+custom_css = ["css/custom.css"]
 
     # Banner Section
     [params.banner]
