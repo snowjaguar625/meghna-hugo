@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Meghna | Responsive Multipurpose Parallax HTML5 Template"
-theme = "meghna-hugo"
+theme = "meghna"
 
 # Menu
 [menu]
@@ -44,8 +44,12 @@ theme = "meghna-hugo"
 [params]
 home= "Home"
 logo = "images/logo.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
-custom_css = ["css/custom.css"]
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
 
     # Banner Section
     [params.banner]
@@ -98,28 +102,21 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "#"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-google-outline"
-        url = "#"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-youtube"
-        url = "#"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-linkedin"
-        url = "#"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-dribbble-outline"
-        url = "#"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
-        url = "#"
