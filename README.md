@@ -1,7 +1,7 @@
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with meghna hugo theme by following this easy steps (No Coding Required)
 
-<a href="https://bit.ly/meghna-hugo" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
+<a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
 
 In this tutorial we will show you to make your website live without buying any hosting and touching a single line of code.
 
@@ -41,7 +41,7 @@ Here comes the last step . Go to your [netlify](https://bit.ly/netlify-account) 
 
 **The images are only for demonstration purpose, Please don't use those images.**
 
-[Live Demo](http://demo.themefisher.com/meghna-hugo/)
+[Live Demo](http://demo.themefisher.com/meghna-hugo/en/)
 
 ## Installation
 At the top we have shown an easy hugo installation. but still if you think you want to go with the traditional way then use the following commands:
@@ -52,7 +52,7 @@ $ cd meghna-hugo/exampleSite/
 $ hugo server --themesDir ../..
 ```
 
-[Full Documentation](http://demo.themefisher.com/meghna-hugo/blog/installation/).
+[Full Documentation](http://demo.themefisher.com/meghna-hugo/en/blog/installation/).
 
 ## Reporting Issues
 
