@@ -436,7 +436,6 @@ a:hover {
 
 .hero-area {
   background-size: cover;
-  background-position: center;
   height: 100vh;
   position: relative;
   display: flex;
@@ -707,8 +706,13 @@ a:hover {
 }
 
 .form-meghna input:hover,
-.form-meghna textarea:hover {
+.form-meghna textarea:hover,
+#contact-submit:hover {
   border-color: #57cbcc;
+}
+
+.form-meghna ::placeholder {
+  color: #ddd !important;
 }
 
 #contact-submit {
@@ -717,15 +721,6 @@ a:hover {
   padding: 12px 0;
   width: 100%;
   margin: 0;
-}
-
-#contact-submit:hover {
-  border-color: #2c9091;
-  background-color: #2c9091;
-}
-
-.form-meghna ::placeholder {
-  color: #ddd !important;
 }
 
 .google-map #map-canvas {
