@@ -6,11 +6,6 @@ $(window).on('load', function () {
 	$('.preloader').fadeOut(100);
 });
 
-// Auto close Navbar when click on link
-$('.navbar-collapse a').click(function(){
-	$(".navbar-collapse").collapse('hide');
-});
-
 jQuery(function ($) {
 	"use strict";
 
