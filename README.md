@@ -62,8 +62,7 @@ This project has been pre-configured to work with [Forestry](https://forestry.io
 repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/meghna-hugo&engine=hugo&version=0.80.0) and
 you will be able to edit and preview your site ✨.
 
-Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify) or
-[Vercel](#vercel).
+Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 
 ## Deployment and hosting
 
@@ -97,7 +96,7 @@ issue](https://github.com/themefisher/meghna-hugo/issues).
 - https://www.cocoon-arolla.com
 - https://www.plurisante202.fr
 
-View all the websites powered by Meghna Hugo theme [here](https://github.com/themefisher/meghna-hugo/wiki/Popular-sites-powered-by-Meghna-Hugo). Want to submit your own website powered by Meghna Hugo theme? You can submit it [here](https://github.com/themefisher/meghna-hugo/discussions/174).
+View all the websites powered by Meghna Hugo theme [here](https://github.com/themefisher/meghna-hugo/wiki/All-Meghna-Hugo-theme-Powered-Websites). Want to submit your own website powered by Meghna Hugo theme? You can submit it [here](https://github.com/themefisher/meghna-hugo/discussions/174).
 
 <!-- licence -->
 ## License
